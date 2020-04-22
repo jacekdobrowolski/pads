@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body class="vscode-light">
+        <p>Na podstawie <a href="opis.pdf">opisu</a>.</p>
+<p>Rezystory</p>
+<blockquote>
+<p><a href="rezystor-smd.pdf">datasheet dla rezystorów</a></p>
+</blockquote>
+<ul>
+<li>PR1 1M<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span> <a href="trimpot.pdf">potencjometr</a></li>
+<li>R1 1k<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span></li>
+<li>R2 10k<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span></li>
+<li>R3..R6 100<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span></li>
+<li>R7 1k<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Ω</mi></mrow><annotation encoding="application/x-tex">\Omega</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord">Ω</span></span></span></span></li>
+</ul>
+<p>Kondensatory</p>
+<blockquote>
+<p><a href="electrolytic-cap-smd.pdf">datasheet dla kondensatorów elektrolitycznych</a>
+<br>
+<a href="ceramic-cap-smd.pdf">datasheet dla kondensatorów ceramicznych</a></p>
+</blockquote>
+<ul>
+<li>C1 470nF</li>
+<li>C2 220...470<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>μ</mi></mrow><annotation encoding="application/x-tex">\mu</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">μ</span></span></span></span>F</li>
+<li>C3 100nF</li>
+</ul>
+<p>Półprzewodniki</p>
+<ul>
+<li>D1...D4 <a href="1N4148-1206.pdf">1N4148</a> obudowa: 1206</li>
+<li>IC1 <a href="cd4070bm.pdf">CD4070BM</a> obudowa: SOP14</li>
+<li>IC2 <a href="cd4093bm.pdf">CD4093BM</a> obudowa: SOP14</li>
+<li>IC3 <a href="cd4027bm.pdf">CD4027BM</a> obudowa: SOP26</li>
+<li>T1..T2 <a href="BUZ10.pdf">BUZ10</a> obudowa: TO-220 przewlekany (słabo dostępny) najlepiej zamienić go na <a href="2N7002K.pdf">2N7002K</a> obudowa SOT-23</li>
+</ul>
+<p>Różne</p>
+<ul>
+<li>CON1 <a href="ARK.pdf">ARK2</a> &lt;-2,54mm, w opisie jest (3,5mm)</li>
+<li>CON2 6x<a href="goldpin.pdf">goldpin</a></li>
+<li>S1..S2 2przełącznik</li>
+</ul>
+<p align="right"> Jacek Dobrowolski </p>
+    </body>
+    </html>
