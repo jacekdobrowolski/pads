@@ -32,7 +32,7 @@ Półprzewodniki
 
 Różne
 
-- [ ] **CON1 [ARK2](https://www.tme.eu/Document/e399f683de63f8ff6d8fcb1baa663eaf/DG308-2.54.pdf) <-2,54mm, w opisie jest (3,5mm)**
+- [x] **CON1 [ARK2](https://www.tme.eu/Document/e399f683de63f8ff6d8fcb1baa663eaf/DG308-2.54.pdf) <-2,54mm, w opisie jest (3,5mm)**
 - [ ] CON2 6x[goldpin](https://www.tme.eu/Document/719e00d14e261a014e3a7e1c938a6b50/77311-818-XXLF.pdf)
 - [ ] S1..S2 2przełącznik
 
