@@ -28,7 +28,7 @@ Półprzewodniki
 - [x] **IC1 [CD4070BM](http://www.ti.com/lit/ds/symlink/cd4077b.pdf) obudowa: SOP14**
 - [x] IC2 [CD4093BM](https://www.ti.com/lit/ds/symlink/cd4093b.pdf) obudowa: SOP14
 - [x] IC3 [CD4027BM](https://www.ti.com/lit/ds/symlink/cd4027b-mil.pdf) obudowa: SOP16
-- [ ] T1..T2 [BUZ10](https://pdf1.alldatasheet.com/datasheet-pdf/view/22128/STMICROELECTRONICS/BUZ10/+Q2Q_9UORlHDyRHOIpa/1XXyxeoPjrHH+/datasheet.pdf) obudowa: TO-220 przewlekany (słabo dostępny) najlepiej zamienić go na [2N7002K](2N7002K.pdf) obudowa SOT-23
+- [x] T1..T2 [BUZ10](https://pdf1.alldatasheet.com/datasheet-pdf/view/22128/STMICROELECTRONICS/BUZ10/+Q2Q_9UORlHDyRHOIpa/1XXyxeoPjrHH+/datasheet.pdf) obudowa: TO-220 przewlekany (słabo dostępny) najlepiej zamienić go na *[2N7002K](https://www.tme.eu/Document/dadb624fda185e3afa4a2641283b50a1/2N7002K.PDF) obudowa SOT-23*
 
 Różne
 
