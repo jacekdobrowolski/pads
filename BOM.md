@@ -24,7 +24,7 @@ Kondensatory
   
 Półprzewodniki
 
-- [ ] D1...D4 [1N4148](https://www.tme.eu/Document/8a0f4bd1d0e0495ebb1834ba060fbfa0/CD4148.pdf) obudowa: 1206
+- [x] D1...D4 [1N4148](https://www.tme.eu/Document/8a0f4bd1d0e0495ebb1834ba060fbfa0/CD4148.pdf) obudowa: 1206
 - [x] **IC1 [CD4070BM](http://www.ti.com/lit/ds/symlink/cd4077b.pdf) obudowa: SOP14**
 - [x] IC2 [CD4093BM](https://www.ti.com/lit/ds/symlink/cd4093b.pdf) obudowa: SOP14
 - [x] IC3 [CD4027BM](https://www.ti.com/lit/ds/symlink/cd4027b-mil.pdf) obudowa: SOP16
