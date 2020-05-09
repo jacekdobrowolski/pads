@@ -72,6 +72,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVYKKODR
 
+[GeneratedDocument1]
+DocumentPath=SCH_LIB_JD.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=SCH_LIB_JD.rep
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
