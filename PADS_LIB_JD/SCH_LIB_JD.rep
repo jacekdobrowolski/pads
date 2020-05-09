@@ -1,0 +1,17 @@
+CSV text has been written to file : SCH_LIB_JD.csv
+
+Library Component Count : 10
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+1N4148_JD           
+2N7002K_JD          
+ARK2_2.54_JD        
+CD4027BM_JKFF_JD    
+CD4070BM_XOR_JD     
+CD4093BM_SCHMITT_JD 
+ELECTROLYTIC_CAP_JD 
+GOLDPIN_JD          
+POT_TS53J_JD        
+SWITCH_JD           Switch
