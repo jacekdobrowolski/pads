@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SOESDJND
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PADS_PCB_JD\Design Rule Check - PCB_JD.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
